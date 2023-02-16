@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Yil00/Yil00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mehmet Yildiz** 
 
 # Mehmet Yildiz
 My personal repository
