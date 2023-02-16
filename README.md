@@ -16,7 +16,7 @@ to be continued ...
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning Datascience
 - 💬 Ask me about 🤷‍♂️
 - 📫 How to reach me: look my bio 
