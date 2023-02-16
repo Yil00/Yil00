@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Mehmet Yildiz** 
+**Profil :** 
 
-# Profil:
+# Mehmet Yildiz :
 My personal repository
 Hi there 😎
 
