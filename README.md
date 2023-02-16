@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Yil00/Yil00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Mehmet Yildiz
@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Datascience
 - 💬 Ask me about 🤷‍♂️
 - 📫 How to reach me: look my bio 
-- ⚡ Fun fact: I'am a ninja 🐱‍👤
--->
+- ⚡ Fun fact: I'am a ninja 🐱‍
