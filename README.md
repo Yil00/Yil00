@@ -5,7 +5,7 @@
 
 # DataVizon :
 My personal repository
-Hi there 😎
+Hi there 🦉
 
 I'm Student in Datascience.
 
