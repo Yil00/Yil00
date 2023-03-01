@@ -7,7 +7,7 @@
 My personal repository
 Hi there 🦉
 
-I'm Student in Datascience.
+I'm Student in Datascience.🏫
 
 I want to try a lot of things, discover and explore...
 
