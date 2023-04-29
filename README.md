@@ -1,5 +1,6 @@
 
-  ![logo](https://im3.ezgif.com/tmp/ezgif-3-5b723a1ab8.jpg)
+![DataScience2](https://user-images.githubusercontent.com/105881992/235300826-68309288-bbd1-450c-bb06-46a26bf475b6.png)
+
 ### Hi there 👋
 **Profil :**                                
 
