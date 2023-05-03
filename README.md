@@ -15,7 +15,6 @@ I want to try a lot of things, discover and explore...
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning Datascience
 - 💬 Ask me about 🤷‍♂️
-- 📫 How to reach me: look my bio 
-- ⚡ Fun fact: I'am a ninja 🐱‍
+- 📫 How to reach me: incomming soon => 
 
 to be continued ...
