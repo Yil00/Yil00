@@ -8,7 +8,7 @@
 My personal repository
 Hi there 🦉
 
-I'm DataScientist.<3
+I'm DataScientist.
 
 I want to try a lot of things, discover and explore...
 
