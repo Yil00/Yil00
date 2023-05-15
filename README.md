@@ -18,3 +18,6 @@ I want to try a lot of things, discover and explore...
 - 📫 How to reach me: incomming soon => 
 
 to be continued ...
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mehmet-yildiz-datamanagement" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/mehmet-yildiz-datamanagement?trk=profile-badge">Mehmet Y.</a></div>
+              
