@@ -38,7 +38,7 @@ _____
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![Yil00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yil00&count_private=true&show_icons=true&theme=Gradient)](https://github.com/Yil00)
+![Yil00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yil00&count_private=true&show_icons=true&theme=Gradient)
 
 
 
