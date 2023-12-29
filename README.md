@@ -1,5 +1,4 @@
 
-#![DataScience2](https://user-images.githubusercontent.com/105881992/235300826-68309288-bbd1-450c-bb06-46a26bf475b6.png)
 ![DataScience2](https://www.cioinsight.com/wp-content/uploads/2022/07/MLOps-vs-DevOps.jpeg)
 
 ### Hi there 👋
@@ -9,12 +8,12 @@
 My personal repository
 Hi there 🦉
 
-I'm DataScientist.
+I'm Devops & DataScientist.
 
 I want to try a lot of things, discover and explore...
 
 - 🔭 I’m currently working on various projects
-- 🌱 I’m currently learning Datascience
+- 🌱 I’m currently learning Datascience & pratice Devops 
 - 💬 Ask me about 🤷‍♂️
 - 📫 How to reach me: incomming soon => 
 
